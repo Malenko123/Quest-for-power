@@ -1,2 +1,2 @@
 # Quest-for-power
-Strategy game made mostly in PHP
+Strategy game made done in plain PHP
